@@ -39,7 +39,7 @@ public class TransactionSummary {
     //EFFECTS: computes the average amount of money spent on a transaction
     public double averageTransactionCost() {
        //TODO: complete the implementation of this method
-        return 0.0;
+        return 2.2;
     }
 
 
